@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f04376b-4212-46f5-a908-30764efab5e8" name="Default" comment="added a great deal of">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/grafana_manager.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grafana_manager.py" />
+    <list default="true" id="8f04376b-4212-46f5-a908-30764efab5e8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grafana_manager.py" afterPath="$PROJECT_DIR$/grafana_manager.py" />
     </list>
     <ignored path="grafanabackup.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,15 +26,14 @@
       <file leaf-file-name="grafana_manager.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grafana_manager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1590">
-              <caret line="148" column="62" selection-start-line="148" selection-start-column="62" selection-end-line="148" selection-end-column="62" />
+            <state relative-caret-position="257">
+              <caret line="270" column="18" selection-start-line="270" selection-start-column="18" selection-end-line="270" selection-end-column="18" />
               <folding>
-                <element signature="e#136#178#0" expanded="true" />
-                <element signature="e#242#276#0" expanded="false" />
-                <element signature="e#327#765#0" expanded="false" />
-                <element signature="e#816#1397#0" expanded="false" />
-                <element signature="e#1447#1734#0" expanded="false" />
-                <element signature="e#3056#3606#0" expanded="false" />
+                <element signature="e#0#42#0" expanded="true" />
+                <element signature="e#106#140#0" expanded="false" />
+                <element signature="e#191#629#0" expanded="false" />
+                <marker date="1469583974000" expanded="false" signature="993:1285" ph="..." />
+                <marker date="1469583974000" expanded="false" signature="2465:3020" ph="..." />
               </folding>
             </state>
           </provider>
@@ -58,8 +52,8 @@
       <file leaf-file-name="grafana_manager.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grafana_manager.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            <state relative-caret-position="240">
+              <caret line="16" column="107" selection-start-line="16" selection-start-column="107" selection-end-line="16" selection-end-column="107" />
               <folding />
             </state>
           </provider>
@@ -81,8 +75,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../grafanabackup/grafana_manager.py" />
-        <option value="$PROJECT_DIR$/grafana_manager.json" />
         <option value="$PROJECT_DIR$/stuff.json" />
+        <option value="$PROJECT_DIR$/grafana_manager.json" />
         <option value="$PROJECT_DIR$/grafana_manager.py" />
       </list>
     </option>
@@ -332,6 +326,14 @@
       <option name="presentableId" value="Default" />
       <updated>1469481686373</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added the majority of intended functionality">
+      <created>1469567318159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1469567318159</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -347,7 +349,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -378,11 +380,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Added the majority of intended functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the majority of intended functionality" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -392,12 +395,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#136#178#0" expanded="true" />
-            <element signature="e#242#276#0" expanded="false" />
-            <element signature="e#327#765#0" expanded="false" />
-            <element signature="e#816#1397#0" expanded="false" />
-            <element signature="e#1447#1734#0" expanded="false" />
-            <element signature="e#3056#3606#0" expanded="false" />
+            <element signature="e#0#42#0" expanded="true" />
+            <element signature="e#106#140#0" expanded="false" />
+            <element signature="e#191#629#0" expanded="false" />
+            <marker date="1469583974000" expanded="false" signature="993:1285" ph="..." />
+            <marker date="1469583974000" expanded="false" signature="2465:3020" ph="..." />
           </folding>
         </state>
       </provider>
@@ -410,14 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grafana_manager.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stuff.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -426,17 +420,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grafana_manager.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="107" selection-start-line="16" selection-start-column="107" selection-end-line="16" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grafana_manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1590">
-          <caret line="148" column="62" selection-start-line="148" selection-start-column="62" selection-end-line="148" selection-end-column="62" />
+        <state relative-caret-position="257">
+          <caret line="270" column="18" selection-start-line="270" selection-start-column="18" selection-end-line="270" selection-end-column="18" />
           <folding>
-            <element signature="e#136#178#0" expanded="true" />
-            <element signature="e#242#276#0" expanded="false" />
-            <element signature="e#327#765#0" expanded="false" />
-            <element signature="e#816#1397#0" expanded="false" />
-            <element signature="e#1447#1734#0" expanded="false" />
-            <element signature="e#3056#3606#0" expanded="false" />
+            <element signature="e#0#42#0" expanded="true" />
+            <element signature="e#106#140#0" expanded="false" />
+            <element signature="e#191#629#0" expanded="false" />
+            <marker date="1469583974000" expanded="false" signature="993:1285" ph="..." />
+            <marker date="1469583974000" expanded="false" signature="2465:3020" ph="..." />
           </folding>
         </state>
       </provider>
